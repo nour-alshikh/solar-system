@@ -1,1 +1,1 @@
-Please check it out [HERE](https://solar-system-by-nour.netlify.app/){:target="_blank"}!
+Please check it out <a target="_blank" href="https://solar-system-by-nour.netlify.app/">HERE!</a>
